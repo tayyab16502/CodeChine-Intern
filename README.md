@@ -50,7 +50,6 @@ To run this project with your own Firebase environment:
 3. Create a **Cloud Firestore Database** and set the security rules to allow read/write for authenticated users.
 4. Run `flutterfire configure` in the terminal to automatically connect the app to your Firebase project and generate the `firebase_options.dart` file.
 
-## 🛠️ How to Run
 
 ## 🛠️ How to Run
 
